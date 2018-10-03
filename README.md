@@ -1,7 +1,7 @@
 # VisualScript
 Visual scripting project aimed to output to nearly any language and allow users to create and save custom function blocks.
 
-![visualscripting](https://user-images.githubusercontent.com/39535098/43765089-18340258-99fd-11e8-9397-19e9b8e1380f.png)
+![visualscriptdemo](https://user-images.githubusercontent.com/39535098/46435554-99ed0e80-c724-11e8-9907-66901adf14af.png)
 
 ## Future Features:
 * Add basic logic gates.
